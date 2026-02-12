@@ -50,4 +50,5 @@ Researcher transitioning into software development, with a strong background in 
 ---
 
 ## 🤝 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/catarina-rato-84a788257/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-rato-84a788257/)
+
